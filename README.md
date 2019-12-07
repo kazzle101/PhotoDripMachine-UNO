@@ -8,3 +8,5 @@ The software is a bit scrappy, I'm working on a new version for the Teensy.
 Diagrams and things: https://www.g7smy.co.uk/2015/10/water-splash-photography/
 
 Video of it in action: https://www.youtube.com/watch?v=jJNhJuK8mek
+
+<img src="https://github.com/kazzle101/PhotoDripMachine-UNO/blob/master/WaterDrops.jpg" />
